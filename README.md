@@ -61,7 +61,7 @@ The system allows customers to view the menu and reserve tables, while admins ca
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./asst/home.png)
+![Home Page](./asset/home.png)
 
 ### 🍽️ Menu Page
 ![Menu Page](./asset/menu.png)
