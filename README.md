@@ -61,19 +61,17 @@ The system allows customers to view the menu and reserve tables, while admins ca
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./asst/home.png)
 
 ### 🍽️ Menu Page
-![Menu Page](./screenshots/menu.png)
+![Menu Page](./asset/menu.png)
 
 ### 📅 Table Reservation
-![Table Reservation](./screenshots/reservation.png)
+![Table Reservation](./asset/reserve.png)
 
-### 🛠️ Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+### 🛠️ Admin table Management
+![Admin Dashboard](./asset/managetable.png)
 
-### 🧾 Admin Menu Management
-![Admin Menu Management](./screenshots/admin-menu.png)
 ---
 
 ## ⚙️ Installation & Setup
