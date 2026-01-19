@@ -1,3 +1,27 @@
+# 🍽️ Restaurant Table Reservation System
+
+A full-stack *Restaurant Table Reservation System* built using *React, **MongoDB, **Node.js, and **Express*.  
+The system allows customers to view the menu and reserve tables, while admins can manage menu items and handle reservations through an admin panel.
+
+---
+
+## 🚀 Features
+
+### 👤 User Features
+- View restaurant menu
+- Reserve a table by selecting date, time, and number of guests
+- Simple and responsive user interface
+- Real-time reservation status
+
+### 🛠️ Admin Features
+- Secure admin panel
+- Add, update, and delete menu items
+- View and manage table reservations
+- Accept or reject reservations
+- Dashboard for reservation management
+
+---
+
 ## 🧑‍💻 Tech Stack
 
 ### Frontend
@@ -34,6 +58,22 @@
 - Reservation handling
 - Menu control
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🍽️ Menu Page
+![Menu Page](./screenshots/menu.png)
+
+### 📅 Table Reservation
+![Table Reservation](./screenshots/reservation.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### 🧾 Admin Menu Management
+![Admin Menu Management](./screenshots/admin-menu.png)
 ---
 
 ## ⚙️ Installation & Setup
