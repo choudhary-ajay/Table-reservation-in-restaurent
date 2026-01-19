@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.hero{
+    background-image: url("assets/main.avif");
+}
